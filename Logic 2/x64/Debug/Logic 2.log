@@ -1,0 +1,4 @@
+﻿  Logic 2.cpp
+C:\Users\Hp\OneDrive\Рабочий стол\C++\Logic 2\Logic 2\Logic 2.cpp(31,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hp\OneDrive\Рабочий стол\C++\Logic 2\Logic 2\Logic 2.cpp(38,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Logic 2.vcxproj -> C:\Users\Hp\OneDrive\Рабочий стол\C++\Logic 2\x64\Debug\Logic 2.exe
